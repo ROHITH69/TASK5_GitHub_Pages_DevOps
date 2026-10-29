@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Elevate Labs — Task 5: GitHub Pages Website Deployment
 
 ## Project Overview
